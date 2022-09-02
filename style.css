@@ -249,4 +249,51 @@ body, html{
         width: auto;
         height: auto;
     }
+
+    .getStartedBtn {
+        font-size: 23.4px;
+    }
+    .landing-page, .container, .landing-top, .row, .primeiraColuna {
+        width: 100%;
+        height: 100%;
+        padding: 0px;
+        margin: 0px;;
+    }
+    .primeiraColuna {
+        width: 100%;
+        height: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        padding-top: 30px;
+    }
+    .primeiraColuna h1 {
+        font-size: 27px;
+        padding-bottom: 51px;
+        margin-top: 0px;
+        margin-bottom: 0;
+    }
+    .primeiraColuna p {
+        font-size: 21.6px;
+        padding-top: 0px;
+        margin-top: 0px;
+    }
+    .logos {
+        padding: 0px;
+        margin: 0;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        width: 330px;
+        height: 50px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        padding-bottom: 30px;
+    }
+    .get-started {
+        width: 330px;
+        height: 83px;
+        position: block;
+        margin: 0;
+        padding-bottom: 0;
+    }
 }
