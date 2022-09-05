@@ -9,7 +9,7 @@ Objetivos dos projetos
 • simular um ambiente de desenvolvimento complexo, para entender como os diferentes conceitos se relacionam entre si.
 • identificar dificuldades associadas a maneira como conteudo foi passado.
 
-Informações do projeto 1
+Informações do projeto 1 ->
 PROJETO 1 - HTML e CSS: consiste da elaboração de uma página web de conteúdo estatico, utilizando apenas as tecnologias HTML e CSS para construção de um layout de um website.
 
 Nessa etapa do projeto, sera avaliada a capadacidade da equipe em elaborar um código HTML e CSS que replique o comportamento visual de um website selecionado pela propria equipe.
